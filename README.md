@@ -28,4 +28,8 @@ practice of dsa problems
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhilakh/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
