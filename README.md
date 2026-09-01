@@ -17,6 +17,7 @@ practice of dsa problems
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/siddhilakh/DSA-Practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -46,8 +47,10 @@ practice of dsa problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
