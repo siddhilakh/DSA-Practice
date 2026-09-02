@@ -19,6 +19,7 @@ practice of dsa problems
 | ------- |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/siddhilakh/DSA-Practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,9 +49,14 @@ practice of dsa problems
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
