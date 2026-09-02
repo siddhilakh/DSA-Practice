@@ -1,17 +1,17 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        map<char,int> freq;
-        for(char c: magazine) {
-            freq[c]++;
+        unordered_map<char,int> mp;
+        for(int i = 0; i < magazine.size(); i++) {
+            mp[magazine[i]]++;
         }
-        for(char c: ransomNote){
-            if(freq[c] == 0){
-            return false;
-            } 
-            freq[c]--;
+        for(int i = 0; i < ransomNote.size(); i++) {
+            mp[ransomNote[i]]--;
+            if(mp[ransomNote[i]] < 0) {
+                return false;
+            }
         }
-         return true;
+        return true;
     }
    
 };
