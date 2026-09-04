@@ -39,6 +39,7 @@ practice of dsa problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhilakh/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/siddhilakh/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
@@ -52,6 +53,7 @@ practice of dsa problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
@@ -72,4 +74,8 @@ practice of dsa problems
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
