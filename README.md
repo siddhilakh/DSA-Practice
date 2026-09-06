@@ -26,6 +26,7 @@ practice of dsa problems
 | [0290-word-pattern](https://github.com/siddhilakh/DSA-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/siddhilakh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ practice of dsa problems
 | [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/siddhilakh/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhilakh/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -67,6 +69,7 @@ practice of dsa problems
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/siddhilakh/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
