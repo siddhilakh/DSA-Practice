@@ -27,6 +27,7 @@ practice of dsa problems
 | [0344-reverse-string](https://github.com/siddhilakh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/siddhilakh/DSA-Practice/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ practice of dsa problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/siddhilakh/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/siddhilakh/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
