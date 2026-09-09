@@ -21,6 +21,7 @@ practice of dsa problems
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/siddhilakh/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/siddhilakh/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/siddhilakh/DSA-Practice/tree/master/0290-word-pattern) |
@@ -43,6 +44,7 @@ practice of dsa problems
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/siddhilakh/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhilakh/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
@@ -113,4 +115,8 @@ practice of dsa problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/siddhilakh/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
