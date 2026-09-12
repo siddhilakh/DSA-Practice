@@ -20,6 +20,7 @@ practice of dsa problems
 | [0344-reverse-string](https://github.com/siddhilakh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/siddhilakh/DSA-Practice/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -31,11 +32,13 @@ practice of dsa problems
 | [0290-word-pattern](https://github.com/siddhilakh/DSA-Practice/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/siddhilakh/DSA-Practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/siddhilakh/DSA-Practice/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/siddhilakh/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/siddhilakh/DSA-Practice/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/siddhilakh/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
