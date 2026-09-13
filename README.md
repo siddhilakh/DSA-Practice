@@ -38,6 +38,7 @@ practice of dsa problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhilakh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/siddhilakh/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -54,6 +55,7 @@ practice of dsa problems
 | [0014-longest-common-prefix](https://github.com/siddhilakh/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhilakh/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhilakh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
