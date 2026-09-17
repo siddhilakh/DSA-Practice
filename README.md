@@ -56,6 +56,7 @@ practice of dsa problems
 | [0014-longest-common-prefix](https://github.com/siddhilakh/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhilakh/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/siddhilakh/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhilakh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ practice of dsa problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/siddhilakh/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
