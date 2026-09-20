@@ -7,6 +7,7 @@ practice of dsa problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/siddhilakh/DSA-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -57,6 +58,7 @@ practice of dsa problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhilakh/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/siddhilakh/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/siddhilakh/DSA-Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhilakh/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
