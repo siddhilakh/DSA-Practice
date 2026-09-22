@@ -10,6 +10,7 @@ practice of dsa problems
 | [0066-plus-one](https://github.com/siddhilakh/DSA-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/siddhilakh/DSA-Practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ practice of dsa problems
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhilakh/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +88,7 @@ practice of dsa problems
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/siddhilakh/DSA-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,6 +104,7 @@ practice of dsa problems
 | [0169-majority-element](https://github.com/siddhilakh/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhilakh/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddhilakh/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
@@ -114,6 +118,7 @@ practice of dsa problems
 | ------- |
 | [0035-search-insert-position](https://github.com/siddhilakh/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/siddhilakh/DSA-Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
@@ -156,4 +161,8 @@ practice of dsa problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/siddhilakh/DSA-Practice/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/siddhilakh/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
