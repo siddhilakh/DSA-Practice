@@ -72,6 +72,7 @@ practice of dsa problems
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/siddhilakh/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/siddhilakh/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhilakh/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -171,4 +172,8 @@ practice of dsa problems
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/siddhilakh/DSA-Practice/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
