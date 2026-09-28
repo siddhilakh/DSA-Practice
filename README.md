@@ -71,6 +71,7 @@ practice of dsa problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/siddhilakh/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/siddhilakh/DSA-Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/siddhilakh/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/siddhilakh/DSA-Practice/tree/master/1672-richest-customer-wealth) |
