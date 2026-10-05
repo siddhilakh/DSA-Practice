@@ -40,6 +40,7 @@ practice of dsa problems
 | [0392-is-subsequence](https://github.com/siddhilakh/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/siddhilakh/DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [1816-truncate-sentence](https://github.com/siddhilakh/DSA-Practice/tree/master/1816-truncate-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +82,7 @@ practice of dsa problems
 | [1672-richest-customer-wealth](https://github.com/siddhilakh/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/siddhilakh/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1816-truncate-sentence](https://github.com/siddhilakh/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/siddhilakh/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
