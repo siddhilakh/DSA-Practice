@@ -40,6 +40,7 @@ practice of dsa problems
 | [0392-is-subsequence](https://github.com/siddhilakh/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhilakh/DSA-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/siddhilakh/DSA-Practice/tree/master/0771-jewels-and-stones) |
+| [1108-defanging-an-ip-address](https://github.com/siddhilakh/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1816-truncate-sentence](https://github.com/siddhilakh/DSA-Practice/tree/master/1816-truncate-sentence) |
 ## Dynamic Programming
 |  |
