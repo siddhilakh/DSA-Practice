@@ -42,6 +42,7 @@ practice of dsa problems
 | [0709-to-lower-case](https://github.com/siddhilakh/DSA-Practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/siddhilakh/DSA-Practice/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/siddhilakh/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/siddhilakh/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/siddhilakh/DSA-Practice/tree/master/1816-truncate-sentence) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ practice of dsa problems
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/siddhilakh/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhilakh/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/siddhilakh/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/siddhilakh/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/siddhilakh/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/siddhilakh/DSA-Practice/tree/master/1748-sum-of-unique-elements) |
